@@ -11,19 +11,15 @@ Check out the new style for App Design aims for Car Rent...😉😀😁😎
 
 ## Contributing
 
-Please fork this repository and contribute back using
-[pull requests](https://github.com/Shashank02051997/CarRentalUI-Android/pulls).
+
 
 Any contributions, large or small, major features, bug fixes, are welcomed and appreciated
 but will be thoroughly reviewed .
 
 ### Contact - Let's become friend
-- [Twitter](https://twitter.com/shashank020597)
-- [Github](https://github.com/Shashank02051997)
-- [Linkedin](https://www.linkedin.com/in/shashank-singhal-a87729b5/)
-- [Facebook](https://www.facebook.com/shashanksinghal02)
-### Like our facebook page
-- [Android UI's Bucket](https://www.facebook.com/androiduisbucket)
+
+- [Github](https://github.com/Vikramkumarx)
+- [Linkedin](https://www.linkedin.com/in/vikram-kumar-51b9a1247/)
 
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :) 
