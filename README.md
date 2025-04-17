@@ -1,5 +1,5 @@
 # CarRentalUI-Android
-Check out the new style for App Design aims for Car Rent...😉😀😁😎
+Check out the new style for App Design aims for Car Rent...😉😀😁
 
 ## Screenshots
 
